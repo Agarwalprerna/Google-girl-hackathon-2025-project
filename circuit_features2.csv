@@ -1,0 +1,11 @@
+Circuit,Modules,Instances,Number of Gates,Max Fan-in,Max Fan-out,AND,OR,XOR,NOT,Combinational Depth,,wires
+encoder4to2.v,1,0,5,2,2,2,1,0,2,4,,7
+full_adder.v,1,0,5,2,2,2,1,2,0,4,,10
+mux4to1.v,1,0,5,2,0,2,3,0,0,2,,11
+half_adder.v,1,0,2,2,1,1,0,1,0,2,,6
+4-bit Adder,1,0,16,2,2,8,4,4,0,3,,16
+8-bit Comparator,1,0,11,2,1,8,1,1,1,4,,10
+2-to-4 Decoder,1,0,4,2,4,2,0,2,2,2,,6
+4-bit Register,1,0,0,1,1,0,0,0,0,0,,4
+2-bit ALU,1,0,8,2,2,2,2,2,2,2,,8
+Shift Register,1,0,0,2,1,0,0,0,0,0,,4
